@@ -101,7 +101,7 @@ theme: shoka
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-   type: ''
-  # type: git
-  # repo: https://gitee.com/huka6708/ihuka.git
-  # branch: master
+  #  type: ''
+  type: git
+  repo: https://github.com/huka6708/shoka.github.io.git
+  branch: master
