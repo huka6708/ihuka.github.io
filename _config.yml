@@ -104,4 +104,5 @@ deploy:
   #  type: ''
   type: git
   repo: https://github.com/huka6708/shoka.github.io.git
-  branch: master
+  branch: main
+  message: hexo deploy
